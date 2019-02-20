@@ -1,0 +1,54 @@
+/* Write Custom css code here */
+.xendit-payment-wrap {
+    float: left;
+    width: 100%;
+    max-width: 100%;
+}
+.xendit-payment-left {
+    float: left;
+    width: 50%;
+}
+.xendit-payment-right {
+    float: left;
+    width: 48%;
+    margin-left: 2%;
+}
+.xendit-title {
+    text-transform: uppercase;
+    font-size: 24px;
+}
+.xendit-row {
+    float: left;
+    width: 100%;
+    margin-bottom: 25px;
+}
+.xendit-row input[type="text"] {
+	border-radius: 0;
+}
+.xendit-row-cc {
+    float: left;
+    width: 100%;
+}
+#xendit_credit_card {
+	float: left;
+	width: 75%;
+}
+#xendit_credit_card_cvc {
+	float: left;
+	width: 25%;
+}
+.xendit-row-cc2 {
+	float: left;
+	width: 100%;
+	margin-top: 15px;
+}
+.xendit-row-cc2-1 {
+	float: left;
+	width: 49%;
+	margin-right: 1%;
+}
+.xendit-row-cc2-2 {
+	float: left;
+	width: 49%;
+	margin-left: 1%;
+}
