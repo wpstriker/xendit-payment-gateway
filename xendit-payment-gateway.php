@@ -236,7 +236,6 @@ class Xendit_Payment_Gateway {
                     </div>
                 </div>
                 
-                
                 <div class="xendit-title">Summary</div>
                 	            
             </div>
